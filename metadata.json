@@ -1,0 +1,6 @@
+{
+  "name": "BICHO ANALYZER PRO",
+  "description": "Sistema profissional de análise estatística, tendências e geração inteligente de combinações para Ternos de Grupos, Ternos de Dezenas, Milhares e Quininha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
